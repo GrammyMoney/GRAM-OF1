@@ -1,5 +1,4 @@
 # Open-GRAMv2
-A premium chassis designed for the Open Frame1 platform.
 
 # Introduction 
 **Open GRAMv2** was borne from a desire to create a premium digital controller chassis that allowed for maximum flexibility in design, while also optimizing for cost. The main component is an SLA-printed resin frame that allows for customized top and bottom panels. This enables a variety of customizations all based on the same initial framework. The v2.0 model supports soldered MX switches (hotswaps are technically possible, but have not been tested and may reduce stability).
@@ -13,7 +12,7 @@ Included in this repo is all the files needed to get started with a simple GRAMv
 - **Fab files for GRAMv2 top and bottom panel** (blank with GRAM logo in bottom corner)
 - **Template DXF** for customizing top and bottom panels
 - **Inner standoff .stl files**
-- **GRAM-profile MX button .stl** (for more info, check out the GRAM-MX repo here: [coming soon!])
+- **GRAM-profile MX button .stl files** (for more info, check out the GRAM-MX repo here: [coming soon!])
 
 Additional Information
 -
@@ -34,7 +33,7 @@ The PCB
 -
 The PCB Fabrication files and ordering guide can be found on the [Open-Frame1 Repo](https://github.com/GregTurbo/Open-Frame1) and in the Frame1 discord.
 
-Panels
+The Panels
 -
 The panel Fab Files are located in *Panels>Fab-Files*. If ordering from JLCPCB, load the ZIP files into their automated quoting tool. For a more premium build, I recommend aluminum panels.
 
@@ -52,6 +51,30 @@ When printing the frame with JLC, The recommended materials are:
 - **PA12-HP Nylon** (Much more expensive given the print volume, but gives an amazing textured finish)
 
 ![image](https://user-images.githubusercontent.com/126632196/223052352-a4c2d55a-cfc7-4572-8304-fdd36269bb7d.png)
+
+The Buttons
+-
+The buttons included in this repo are a completely custom profile with rounded edges and a slight concave. I have dubbed these GRAM profile MX buttons. While any F1 style button (20-21mm, MX-style stem) will work, these are my personal preference after 4+ iterations.
+
+The buttons have been tested in the same three materials:
+- **LEDO 6060** (natural white, most cost-effective option, goes well with matching frame and black aluminum panels)
+- **Black Resin** (matte grayish-black, goes well with both black and white panels)
+- **PA12-HP Nylon** (Only slightly more expensive for buttons, but gives an amazing textured finish, very premium feel)
+
+Included in the "Buttons" folder is 3 .stl files:
+- **Solo** is a single button. The GRAM Profile MX Buttons are designed to be universal in terms of manufacturing, and they have all the draft angles necessary to create silicone molds for resin casting. This enables you to create custom buttons in a similar way to custom GCC modders, with all the creativity and expression that comes with it.
+- **10pc** is the multi-part print I recommend for cost effectiveness at JLC. Due to JLCPCB rules, you cannot create a multipart print that has more than 10 identical small parts within it, so this is the best bang for your buck. As of March 2023, Running 2 prints of this for 20 buttons in LEDO 6060 costs only $3.14.
+- **20pc** is the largest multipart print I prepared for this release. If you are printing on your own printer, this .stl allows you to print a whole controller's worth of buttons in a single stroke. This print is untested, so attempt at your own risk.
+
+The Standoffs
+-
+Similar to the buttons, these are printed in a multi-part .stl that allows for 10 pieces to be printed at once at JLCPCB. Each build needs 5, so each print will give you enough for two controllers. These can be printed in the cheapest resin you can find (since they will not be visible in the final build), which as of March 2023 is **9000R**.
+
+# Build Guide
+
+
+
+
 
 
 
