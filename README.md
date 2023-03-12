@@ -11,6 +11,7 @@ Included in this repo is all the files needed to get started with a simple GRAMv
 - **GRAMv2 Frame .stl files** (with and without logo)
 - **Fab files for GRAMv2 top and bottom panel** (blank with GRAM logo in bottom corner)
 - **Template DXF** for customizing top and bottom panels
+- **Fab Files for Switchplate**
 - **Inner standoff .stl files**
 - **GRAM-profile MX button .stl files** (for more info, check out the GRAM-MX repo here: [coming soon!])
 
