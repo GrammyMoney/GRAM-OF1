@@ -73,6 +73,8 @@ Similar to the buttons, these are printed in a multi-part .stl that allows for 1
 
 # Build Guide
 
+Building the GRAMv2 is relatively straightforward, but an updated in-depth build guide (including a video!) is currently in the works.
+
 
 
 
