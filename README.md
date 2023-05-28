@@ -42,7 +42,7 @@ The panel Fab Files are located in *Panels>Fab-Files*. If ordering from JLCPCB, 
 
 ![image](https://user-images.githubusercontent.com/126632196/223051246-1ae2c207-90c1-4d03-98f3-579bc118795f.png)
 
-To customize panels in KiCAD, import the template DXF into KiCAD on the **edge-cuts** layer. All customized designs should be made in Illustrator or a similar vector art software on a 14.5" x 7" canvas, and imported to KiCAD as an SVG at 1.33333 scale on the **front-silkscreen** layer.
+To customize panels in KiCAD, import the template DXF into KiCAD on the **edge-cuts** layer. All customized designs should be made to fit 14.5" x 7" and imported through the image conversion tool onto the silkscreen layer (less complex designs can be put on the solder mask layer if you're doing black aluminum).
 
 The Frame
 -
