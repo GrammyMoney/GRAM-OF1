@@ -1,7 +1,7 @@
 # Open GRAMv2
 
 # Introduction 
-**Open GRAMv2** was borne from a desire to create a premium digital controller chassis that allowed for maximum flexibility in design, while also optimizing for cost. The main component is an SLA-printed resin frame that allows for customized top and bottom panels. This enables a variety of customizations all based on the same initial framework. The v2.0 model supports soldered MX switches (hotswaps are technically possible, but have not been tested and may reduce stability).
+**Open GRAMv2** was borne from a desire to create a premium digital controller case for the Open Frame1 that allowed for maximum flexibility in design, while also optimizing for cost. The main component is an SLA-printed resin frame that allows for customized top and bottom panels. This enables a variety of customizations all based on the same initial framework. The v2.0 model supports soldered MX switches (hotswaps are technically possible, but have not been tested and may reduce stability).
 
 **If you would like to support the developer of this project, consider purchasing parts like buttons, USB-C to GCC cables, and official GRAM builds at [grammy.money](https://www.grammy.money) rather than a fab house.**
 
