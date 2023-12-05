@@ -5,6 +5,9 @@
 
 **If you would like to support the developer of this project, consider purchasing parts like buttons, USB-C to GCC cables, and official GRAM builds at [grammy.money](https://www.grammy.money) rather than a fab house.**
 
+![DSC00547](https://github.com/GrammyMoney/Open-GRAMv2/assets/126632196/f23fd78b-600b-430f-9778-1781b8d7736d)
+
+
 Included Files
 -
 Included in this repo is all the files needed to get started with a simple GRAMv2 build:
